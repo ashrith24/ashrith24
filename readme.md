@@ -37,8 +37,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrith24&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Ashrith's GitHub status" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrith24&theme=algolia" alt="Ashrith" />
-</p>
 
 ---
